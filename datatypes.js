@@ -32,3 +32,4 @@ boolean // true or false
 console.log(typeof(null))
 console.log(typeof(undefined))
 
+// nulls typeof is object and undefined's type is undefined
